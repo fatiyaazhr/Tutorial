@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectSQLite</string>
+    <string name="empty_list_text"> Not Found </string>
+    <string name="enter_nama"> Please Enter Your Name </string>
+    <string name="enter_kelas"> Please Enter Your Class </string>
+    <string name="add_record"> Your Record </string>
+    <string name="btn_update"> Update </string>
+    <string name="btn_delete"> Delete </string>
+</resources>
